@@ -1,5 +1,5 @@
-# Optimizers
-Most commonly used deep learning optimizers from scratch in PyTorch along with visualization.
+# Most commonly used optimizers in Deep Learning from scratch in PyTorch
+![Loss visualized for different optimizers](optim_visualized.png)
 
 ## 1. Vanilla SGD
 ```
